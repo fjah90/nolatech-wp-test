@@ -21,3 +21,18 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# ignore all files in the mysql directory innecessarily
+mysql/#*
+mysql/performance_schema
+mysql/sys
+mysql/auto.cnf
+mysql/bin*
+mysql/ca*
+mysql/cli*
+mysql/pri*
+mysql/pu*
+mysql/ser*
+mysql/un*
+mysql/my*
+mysql/ib*
