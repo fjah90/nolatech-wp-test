@@ -13,6 +13,6 @@ wp-admin/
 - password: Contraseña2023
 
 Es necesario tener instalado docker compose para iniciar, o importar la base de datos wordpress.sql.final
-y el contenido de wordpress content a una instalación de wordpress.
+y el contenido de wp-content a una instalación de wordpress.
 Cancel changes
 La información de la configuración del contenero docker esta en el archivo .yml
