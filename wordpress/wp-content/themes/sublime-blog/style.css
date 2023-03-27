@@ -1,0 +1,26 @@
+/*!
+Theme Name: Sublime Blog
+Theme URI: https://sublimetheme.com/theme/sublime-blog/
+Author: SublimeTheme
+Author URI: https://sublimetheme.com/
+Description: Sublime Blog is a simple, fast, and easily customizable free WordPress blog theme. This theme is perfect for blogging purposes. Sublime Blog is fully SEO optimized, responsive and looks perfect on any device, including desktops, laptops, mobiles, tablets, etc. Sublime Blog is also fully customizable in terms of menu, footer, slider, and options, making websites look appealing. Everything is so simple and well organized, you can create any type of blog easily. The sublime blog is RTL, and translation ready. Whether you are a travel blogger, photographer, or food blogger Sublime Blog is just the perfect choice for you! Check theme demo at https://sublimetheme.com/theme/sublime-blog/, read the documentation at https://sublimetheme.com/docs/sublime-blog/ and get support at https://sublimetheme.com/support/.
+Version: 1.1.2
+Requires at least: 4.9
+Tested up to: 6.0
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sublime-blog
+Tags: blog, one-column, two-columns, right-sidebar, footer-widgets, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, rtl-language-support, translation-ready, theme-options
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Sublime Blog is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/** All styles are moved in css/main.css file. */
