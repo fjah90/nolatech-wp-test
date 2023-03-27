@@ -1,0 +1,408 @@
+# Translation of Themes - Sublime Blog in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Sublime Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-04 05:22:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Sublime Blog\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Sublime Blog is a simple, fast, and easily customizable free WordPress blog theme. This theme is perfect for blogging purposes. Sublime Blog is fully SEO optimized, responsive and looks perfect on any device, including desktops, laptops, mobiles, tablets, etc. Sublime Blog is also fully customizable in terms of menu, footer, slider, and options, making websites look appealing. Everything is so simple and well organized, you can create any type of blog easily. The sublime blog is RTL, and translation ready. Whether you are a travel blogger, photographer, or food blogger Sublime Blog is just the perfect choice for you! Check theme demo at https://sublimetheme.com/theme/sublime-blog/, read the documentation at https://sublimetheme.com/docs/sublime-blog/ and get support at https://sublimetheme.com/support/."
+msgstr "Sublime Blog es un tema de blog para WordPress sencillo, rápido y fácilmente personalizable. Este tema es perfecto para blogs. Sublime Blog está totalmente optimizado para SEO, es adaptable y se ve perfecto en cualquier dispositivo, incluyendo ordenadores de escritorio, portátiles, móviles, tabletas, etc. Sublime Blog también es totalmente personalizable en términos de menú, pie de página, carrusel y opciones, haciendo que las webs se muestren atractivas. Todo es tan simple y bien organizado que puedes crear fácilmente cualquier tipo de blog. Sublime Blog es compatible con RTL y está listo para ser traducido. Tanto si eres un bloguero de viajes, fotógrafo o un bloguero sobre alimentación, ¡Sublime Blog es la elección perfecta para ti! Revisa la demostración del tema en https://sublimetheme.com/theme/sublime-blog/, lee la documentación en https://sublimetheme.com/docs/sublime-blog/ y obtén soporte en https://sublimetheme.com/support/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Sublime Blog"
+msgstr "Sublime Blog"
+
+#: inc/getting-started/getting-started.php:10
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/getting-started/tabs/knowledge.php:13
+msgid "Knowledge base"
+msgstr "Base de conocimiento"
+
+#: inc/info.php:12
+msgid "Information Links"
+msgstr "Enlaces de información"
+
+#: inc/info.php:25
+msgid "View demo"
+msgstr "Ver la demostración"
+
+#: inc/info.php:26
+msgid "View documentation"
+msgstr "Ver la documentación"
+
+#: inc/info.php:27
+msgid "Theme info"
+msgstr "Información del tema"
+
+#: inc/info.php:28
+msgid "Support ticket"
+msgstr "Tique de soporte"
+
+#: inc/info.php:29
+msgid "Rate this theme"
+msgstr "Valorar este tema"
+
+#: inc/upgrade/class-upgrade.php:76
+msgid "Pro Theme Available"
+msgstr "Tema Pro disponible"
+
+#: inc/upgrade/class-upgrade.php:77
+msgid "View Pro Theme"
+msgstr "Ver el tema Pro"
+
+#: inc/template-functions.php:58
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/template-functions.php:60
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/metabox.php:11
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: inc/metabox.php:22
+msgid "Right sidebar (default)"
+msgstr "Barra lateral derecha (por defecto)"
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/metabox.php:38
+msgid "Choose Sidebar Template"
+msgstr "Elegir la plantilla de la barra lateral"
+
+#: inc/customizer.php:42
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: inc/customizer.php:60
+msgid "Enable Header Search"
+msgstr "Activar la búsqueda en la cabecera"
+
+#: inc/customizer.php:106
+msgid "Enable Slider Auto Transition"
+msgstr "Activar la transición automática del carrusel"
+
+#: inc/customizer.php:125
+msgid "Enable Slider Loop"
+msgstr "Activar el bucle del carrusel"
+
+#: inc/customizer.php:144
+msgid "Choose Slider Transition"
+msgstr "Elegir la transición del carrusel"
+
+#: inc/customizer.php:148
+msgid "Slide"
+msgstr "Deslizar"
+
+#: inc/customizer.php:149
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: inc/customizer.php:167
+msgid "Slider Autoplay Speed"
+msgstr "Velocidad de reproducción automática del carrusel"
+
+#: inc/customizer.php:186
+msgid "Slider Autoplay Timeout"
+msgstr "Tiempo de espera de la reproducción automática del carrusel"
+
+#: inc/customizer.php:316
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#: inc/customizer.php:335
+msgid "Footer Copyright"
+msgstr "Copyright del pie de página"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/template-functions.php:53
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-functions.php:116
+msgid ", "
+msgstr ", "
+
+#: header.php:49
+msgid "Search Result"
+msgstr "Resultados de la búsqueda"
+
+#: header.php:50
+msgid "Search results for the keyword:"
+msgstr "Resultados de la búsqueda para la palabra clave:"
+
+#: header.php:55
+msgid "Oop! This page can not be found"
+msgstr "¡Vaya! No se ha podido encontrar esa página"
+
+#: inc/template-tags.php:215
+msgid "Page"
+msgstr "Página"
+
+#: functions.php:51
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:134
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:136 functions.php:146 functions.php:156 functions.php:166
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: functions.php:144
+msgid "Footer One"
+msgstr "Pie de página uno"
+
+#: functions.php:154
+msgid "Footer Two"
+msgstr "Pie de página dos"
+
+#: functions.php:164
+msgid "Footer Three"
+msgstr "Pie de página tres"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:189
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Leckerli One, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:197
+msgctxt "Leckerli One font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/customizer.php:379
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:42
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:45
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: footer.php:56
+msgid "Top"
+msgstr "Superior"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: 404.php:18
+msgid "The page you were looking for could not be found. You may have typed the address incorrectly or you may have used an outdated link. Try search our site."
+msgstr "No se ha podido encontrar la página que estabas buscando. Puede que no hayas escrito correctamente la dirección o puede que hayas usado un enlace obsoleto. Intenta buscar en nuestro sitio."
+
+#: 404.php:20
+msgid "Back to Homepage"
+msgstr "Volver a la página de inicio"
+
+#: inc/customizer.php:70
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: inc/customizer.php:88
+msgid "Enable Banner Slider"
+msgstr "Activar el banner del carrusel"
+
+#: inc/customizer.php:205
+msgid "Slider Type"
+msgstr "Tipo de carrusel"
+
+#: inc/customizer.php:208
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/customizer.php:209
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer.php:228
+msgid "Slider Category"
+msgstr "Categoría del carrusel"
+
+#: inc/customizer.php:249
+msgid "Number of Slides"
+msgstr "Número de diapositivas"
+
+#: inc/customizer.php:250
+msgid "Choose the number of slides you want to display"
+msgstr "Elige el número de diapositivas que quieres mostrar"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:49
+msgctxt "post author"
+msgid "By %s"
+msgstr "Por %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:84
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejar un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:109
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sEtiquetas:%2$s %3$s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:117
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:185
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: inc/template-tags.php:193
+msgid "Next Post"
+msgstr "Entrada siguiente"
+
+#: inc/template-tags.php:201
+msgid "Post Navigation"
+msgstr "Navegación de las entradas"
+
+#: inc/template-tags.php:254
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "Tu comentario está pendiente de moderación. Esto es una vista previa; tu comentario será visible cuando haya sido aprobado."
+
+#: inc/template-tags.php:286
+msgid "Choose Category"
+msgstr "Elegir la categoría"
+
+#. translators: Category archive title. 1: Category name
+#: inc/template-functions.php:193
+msgid "%1$sCategory%2$s %3$s"
+msgstr "%1$sCategoría%2$s %3$s"
+
+#. translators: Tag archive title. 1: Tag name
+#: inc/template-functions.php:196
+msgid "%1$sTag%2$s %3$s"
+msgstr "%1$sEtiqueta%2$s %3$s"
+
+#. translators: Author archive title. 1: Author name
+#: inc/template-functions.php:199
+msgid "%1$sAuthor%2$s %3$s"
+msgstr "%1$sAutor%2$s %3$s"
+
+#. translators: Yearly archive title. 1: Year
+#: inc/template-functions.php:202
+msgid "%1$sYear%2$s %3$s"
+msgstr "%1$sAño%2$s %3$s"
+
+#. translators: Yearly archive title. 1: Year
+#: inc/template-functions.php:202
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: inc/template-functions.php:205
+msgid "%1$sMonth%2$s %3$s"
+msgstr "%1$sMes%2$s %3$s"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: inc/template-functions.php:205
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Daily archive title. 1: Date
+#: inc/template-functions.php:208
+msgid "%1$sDay%2$s %3$s"
+msgstr "%1$sDía%2$s %3$s"
+
+#. translators: Daily archive title. 1: Date
+#: inc/template-functions.php:208
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j \\d\\e F \\d\\e Y"
+
+#. translators: Post type archive title. 1: Post type name
+#: inc/template-functions.php:211
+msgid "%1$sArchives%2$s %3$s"
+msgstr "%1$sArchivos%2$s %3$s"
+
+#: template-parts/content.php:36
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:20
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/content-page.php:20 template-parts/content-single.php:31
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://sublimetheme.com/"
+msgstr "https://sublimetheme.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://sublimetheme.com/theme/sublime-blog/"
+msgstr "https://sublimetheme.com/theme/sublime-blog/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "SublimeTheme"
+msgstr "SublimeTheme"
