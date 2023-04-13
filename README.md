@@ -15,4 +15,4 @@ wp-admin/
 Es necesario tener instalado docker compose para iniciar, o importar la base de datos wordpress.sql.final
 y el contenido de wp-content a una instalación de wordpress.
 
-La información de la configuración del contenedoo docker esta en el archivo docker-compose.yml
+La información de la configuración del contenedor docker esta en el archivo docker-compose.yml
